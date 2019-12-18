@@ -3,7 +3,7 @@
 #depency
 /node_modules/
 
-#secreate
-apikey.js
+#locatResources
+locatResources.js
 
 
