@@ -3,4 +3,7 @@
 #depency
 /node_modules/
 
+#secreate
+apikey.js
+
 
