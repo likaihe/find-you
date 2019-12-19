@@ -1,16 +1,9 @@
 import React from 'react';
-import './App.css';
-import Example from './components/view/Example'
-import FindYouMap from './components/view/FindYouMap'
+import FindYouHomePage from './pages/FindYouHomePage'
 
 function App() {
     return (
-        <>
-            <FindYouMap />
-            < Example/>
-        </>
-
-
+            <FindYouHomePage />
     )
 }
 
